@@ -13,7 +13,13 @@
 ## 2. Degradation Factor
 *Status: Completed*  
 *File: 2-Degradation_Factor.md*  
-*Description: A must-step in all calculations under this framework.*
+*Description: A must-step in all calculations under this framework.  Meant to be an acknowlogment of change within reality that all volume definitions suffer with any attempt to define a volume itself.*
+*2.1. Degradation as a Computational Threshold*
+*2.2. Closing a Volume for Calculation*
+*2.3. Durational Resolution and Degradation*
+*2.4. Volume Growth and Change in Reality*
+*2.5. Reframing Degradation in the Framework*
+
 
 ## 3. Newtonian Mechanics
 *Status: Completed*  
@@ -113,7 +119,7 @@
 
 ### Framework Overview ###
 
-I Kyle Telfer am trying to teach myself things.  I am not traditionally educated so I have settled into what I call a 5-step interaction (perception > interpretation > communication > interpretation > perception).  With help from notable AI platforms I am trying to document and fit what is known about physics while understanding and acknowledging the data points of the observed while not expanding on them.  This is a working process always.
+I Kyle Telfer, a self-taught individual exploring physics through a structured, iterative process I call the 5-step interaction: perception > interpretation > communication > interpretation > perception. With the help of AI platforms, I’m documenting and organizing known physics principles to better understand my own gaps in knowledge. My goal is to build a framework that helps me—and potentially others—navigate complex ideas by respecting observed data points and existing knowledge, without overextending their implications. This is an ongoing, evolving process, and I hope that by collaborating with others, this framework can grow into something that benefits not just me, but anyone who finds themselves grappling with similar questions.
 
 ####Core Priciples####
 *Volume Interactions: Forces and interactions are reinterpreted as interactions between volumes.

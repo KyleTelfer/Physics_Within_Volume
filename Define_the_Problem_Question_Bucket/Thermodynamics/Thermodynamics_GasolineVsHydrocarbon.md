@@ -1,12 +1,17 @@
 # Why is gasoline different than a hydrocarbon being combusted?
 
 ## Overview
-In an effort to understand certain climate issues and the anger at big oil I am trying to define what makes gasoline so bad.  As I look into this the problem gets weird.  Octane is a hydrocarbon.  But Benzine is in the florine family so if combusted within Hydrocarbons in the presence of any chlorine gas would most likely result in CBC's which are wayyy worse for the environment then the simple CO2 issue.  Also Air intakes to any gas engine are at street level and atmospheric compounds at street level tend to be the heavier compounds so chlorine is heavier then most air compounds.   This is a concern I am trying to better define.
+In an effort to understand certain climate issues and the public concern over big oil, I am trying to define what makes gasoline combustion particularly problematic. Gasoline is a complex mixture of hydrocarbons, but its environmental impact goes beyond simple CO2 emissions. For instance:
+- **Benzene**: A component of gasoline, benzene belongs to the aromatic hydrocarbon family. When combusted in the presence of chlorine (which can be found in street-level air due to its higher density), it can form **chlorinated biphenyl compounds (CBCs)**, which are far more harmful to the environment than CO2.
+- **Street-Level Air Intake**: Gas engines intake air at street level, where heavier atmospheric compounds like chlorine are more concentrated. This increases the likelihood of CBC formation during combustion.
+
+This question explores why gasoline combustion is different from the combustion of a single hydrocarbon and how these differences contribute to environmental and computational challenges.
 
 ## Key Points to Explore
 1. **Volume Interactions**:
-   - How do the interactions between different hydrocarbon volumes in gasoline affect combustion?
-   - How does the mixture of hydrocarbons create a unique energy transfer compared to a single hydrocarbon?
+   - How do the interactions between different hydrocarbon volumes in gasoline affect combustion efficiency and byproduct formation?
+   - How does the mixture of hydrocarbons create a unique energy transfer compared to a single hydrocarbon? For example, does the presence of benzene or other additives alter the combustion process?
+   - How do impurities (e.g., chlorine) in the air interact with the hydrocarbon volumes during combustion, leading to the formation of harmful compounds like CBCs?
 
 2. **Observer-Dependence**:
    - How does the observer’s perspective (e.g., a chemist vs. an engineer) influence the interpretation of gasoline combustion?
@@ -20,19 +25,28 @@ In an effort to understand certain climate issues and the anger at big oil I am 
    - Why does gasoline’s complex mixture lead to more efficient energy release compared to a single hydrocarbon?
    - How do impurities or additives in gasoline affect its combustion properties?
 
+## Environmental Impact
+- **CBC Formation**: How does the presence of chlorine in street-level air lead to the formation of chlorinated biphenyl compounds (CBCs) during gasoline combustion?
+- **CO2 Emissions**: While CO2 is a well-known byproduct of combustion, how does gasoline’s complex mixture exacerbate or mitigate its production compared to single hydrocarbons?
+- **Air Quality**: What role do gasoline engines play in urban air pollution, and how do combustion byproducts like CBCs and CO2 contribute to climate and health issues?
+
 ## Computational Challenges
 - Modeling the combustion of a complex mixture like gasoline involves many variables (e.g., temperature, pressure, chemical composition), which can lead to **computational degradation**.
 - The interactions between different hydrocarbons in gasoline create non-linear effects that are difficult to capture in simplified models.
+- The presence of impurities (e.g., chlorine) and their reactions with hydrocarbons add another layer of complexity, making it challenging to predict byproduct formation accurately.
+- Real-world conditions, such as street-level air composition and engine variability, further complicate the modeling process.
 
 ## Possible Data Points
 - Experimental data on the combustion efficiency of gasoline vs. single hydrocarbons.
 - Measurements of temperature and pressure changes during combustion.
 - Chemical analysis of gasoline’s composition and its effects on combustion.
+- Air quality data from urban areas with high gasoline engine usage.
 
 ## Independent Confirmation
-- Conduct controlled experiments comparing gasoline combustion to single hydrocarbon combustion.
-- Use spectroscopic analysis to measure energy release and byproducts.
-- Compare results with existing research to ensure reproducibility.
+- Conduct controlled experiments comparing gasoline combustion to single hydrocarbon combustion under varying conditions (e.g., with and without chlorine present).
+- Use spectroscopic analysis to measure energy release and byproducts, focusing on the formation of CBCs and CO2.
+- Compare results with existing research to ensure reproducibility and validate computational models.
+- Collaborate with environmental scientists to analyze air quality data from urban areas with high gasoline engine usage.
 
 ---
 

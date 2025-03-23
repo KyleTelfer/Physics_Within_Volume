@@ -176,8 +176,14 @@ Volume is defined as a region within 3D space that can be either an open system 
 ** Modifiers **
 * To be expanded upon 
 
+#Volumes within perception#
+Volume interactions are a way for me to compartmentalize interactions but this framework is an attempt to respect the need to look at things in a way to understand something specific while respecting the interactions of reality.  So Closing a volume is a theoretical way to define specific conditions and follow interactions but this in no way is useful to simulate a situation for a concept of predictability.  Many great works are based within the human experience and thus explain many results within this experience.  I view many constants defined as great but limited to the volume they are computed within.
+
 #Scope of a Closed Volume #
 Once a closed volume is defined those definitions can be used for calculations but after any external interaction those definitions would not be considered accurate.  For purposes of comparison they may be valuable but concidering any closed volume as existing in a closed state would be incorrect as everything should account for the unobserved as a possible interaction.
+
+# Open Volume or Partial Volume definitions such as a measuring volume #
+As all closed volume energy's are within this theoretical framework to be accounted for the use of entropic variables account for theoretical vs practical variance and other unknowns.  The need to partially define a volume to incorporate specific useful computation for any given need the use of these are both encouraged but need to respect many variables lead to entropic variables through variable definitions themselves.  So given a specific set of experimental needs one would define a measuring volume to enclose the closed volume you are calculating to better control the results and expediate the results for said calculation while respecting the entropic and degredation variables of both measuring volume and closed volume. 
 
 # Elements #
 The foundation for all physical things.  In the most broad terms to me each element is possibly a stable mass energy threshold to which all foundations of physical material within a volume is wholely notable.
@@ -187,8 +193,7 @@ Once a system is closed and defined that is intended for flow evaluation and tha
 
 With the creation of micro-particle volumes the flow evaluation of the closed volume would not be limited to saturated systems.  The theoretical volume has energy input and output.  This input and output has needed defined properties to evaluate the closed volume.  The reason for energy input to be opposite the output relative to the closed volume is the closed volume would seek equilibrium once saturated.  If your evaluating a flow that is meant to redistribute energy the theoretical energy in and out do not supply the energy to run the evaluation.
 
-# Open Volume or Partial Volume definitions such as a measuring volume #
-As all closed volume energy's are within this theoretical framework to be accounted for the use of entropic variables account for theoretical vs practical variance and other unknowns.  The need to partially define a volume to incorporate specific useful computation for any given need the use of these are both encouraged but need to respect many variables lead to entropic variables through variable definitions themselves.  So given a specific set of experimental needs one would define a measuring volume to enclose the closed volume you are calculating to better control the results and expediate the results for said calculation while respecting the entropic and degredation variables of both measuring volume and closed volume. 
+
 
 # Entropy #
 I have issue with Entropy myself.  So conceptually it equates to unobserved interactions or unobserved properties upon closing a volume. To me Entropy is used due to comparing volumes with unlike undocumented conditions.  So within a sterdy conceptual framework the only Entropic values should fall to the not observed and highlight limitations within experimental conversion from theoretical models.

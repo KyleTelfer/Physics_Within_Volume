@@ -62,8 +62,20 @@ Below is the current structure of the repository. This tree will be updated as t
 | |____1st_Person
 | |____2nd_Person
 | |____3rd_Person
+| | |____Planetary_Data_Calculation.py
 | |____Volume_interaction_workflows
 |____Define_the_Problem_Question_Bucket
+| |____Cosmology
+| |____Electromagnetism
+| |____Fluid_Mechanics
+| |____Mechanics
+| |____Nuclear_and_Particle_Physics
+| |____Quantum_Mechanics
+| |____README.md
+| |____Relativity
+| |____Thermodynamics
+| | |____Thermodynamics_GasolineVsHydrocarbon.md
+| |____Waves_and_Optics
 |____LICENSE
 |____README.md
 |____ROADMAP.md

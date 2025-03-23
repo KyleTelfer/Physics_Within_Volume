@@ -26,3 +26,13 @@ If you’d like to add a question to the bucket, please:
 
 ## License
 This work is licensed under the [MIT License](../../LICENSE).
+
+## Using Templates
+To contribute to the repository, please use the provided templates to ensure consistency and completeness. Follow these steps:
+1. Navigate to the `templates` directory.
+2. Copy the relevant template file (e.g., `Physics_Concepts_Template.md`).
+3. Rename the file to reflect your contribution (e.g., `Mechanics_Example.md`).
+4. Fill out the template with your content.
+5. Submit a pull request with your new file.
+
+For more details, see the [Contribution Guidelines](CONTRIBUTING.md).

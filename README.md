@@ -85,3 +85,13 @@ This project is licensed under the [MIT License](LICENSE). See the [LICENSE](LIC
 We welcome contributions from the community! Whether you're interested in adding examples, developing mathematical resolutions, or proposing new experiments, your input is valuable. Check out the [Contribution Guidelines](CONTRIBUTING.md) to get started.
 
 Join the discussion on [GitHub Discussions](https://github.com/your-repo-link/discussions) to share ideas, ask questions, or provide feedback.
+
+## Using Templates
+To contribute to the repository, please use the provided templates to ensure consistency and completeness. Follow these steps:
+1. Navigate to the `templates` directory.
+2. Copy the relevant template file (e.g., `Physics_Concepts_Template.md`).
+3. Rename the file to reflect your contribution (e.g., `Mechanics_Example.md`).
+4. Fill out the template with your content.
+5. Submit a pull request with your new file.
+
+For more details, see the [Contribution Guidelines](CONTRIBUTING.md).

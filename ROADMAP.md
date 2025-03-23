@@ -76,6 +76,12 @@ Below is the current structure of the repository. This tree will be updated as t
 | |____Thermodynamics
 | | |____Thermodynamics_GasolineVsHydrocarbon.md
 | |____Waves_and_Optics
+|____templates
+| |____Framework_Overview_Template.md
+| |____Physics_Concepts_Template.md
+| |____Facility_Machine_Template.md
+| |____Experimental_Designs_Template.md
+| |____Problem_Question_Template.md
 |____LICENSE
 |____README.md
 |____ROADMAP.md

@@ -1,7 +1,7 @@
 # [Experiment Name] (e.g., Speed of Light Experiment)
 
 ## Overview
-Provide a brief overview of the experiment and its purpose.
+Provide a brief overview of the experiment and its purpose.  To note data points are data points.  They are within science 100% correct but laying out the limits of the data points before hand helps everyone understand the limitations of the data itself.  So experimental science is not about being correct it is about being correct within a given situation.
 
 ## Theoretical Considerations
 - **Hypothesis**: [What is the hypothesis being tested?]

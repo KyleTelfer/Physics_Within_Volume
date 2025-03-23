@@ -41,6 +41,7 @@ Below is the current structure of the repository. This tree will be updated as t
 |____Framework_Overview
 | |____1-Legend.md [Status: Complete]
 | |____1b-Framework_Application_List.md [Status: In Progress]
+| |____1c-Person_Notation.md [Status: In Progess]
 | |____2-Degradation_Factor.md [Status: Complete]
 |____Physics_Concepts
 | |____3-Mechanics.md [Status: In Progress - Needs Mathematical Resolutions]

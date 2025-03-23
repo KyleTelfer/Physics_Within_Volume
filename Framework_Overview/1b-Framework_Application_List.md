@@ -3,6 +3,12 @@
 ---
 
 ## 1b.1 Computerized Modeling
+
+- **Framework Application**:
+  - **First-Person POV**: Used to model the internal state of the volume being simulated.
+  - **Second-Person POV**: Used to model interactions with other volumes in the system.
+  - **Third-Person POV**: Used to describe the overall system behavior and degradation.
+
 - **Definition**: Theoretical simulations using computational tools to predict system behavior.
 - **Key Characteristics**:
   - **Output**: Best-guess predictions, not real-world results.

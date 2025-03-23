@@ -10,6 +10,11 @@
 *File: 1b-Framework_Application_List.md*  
 *Description: Conceptual abbreviation of the physics framework to use in perceptual and conceptual understanding or design of interactions in life.*
 
+## 1c Framework Application List
+*Status: Always in flux*  
+*File: 1c-Person_Notation.md*  
+*Description: A brief description on what I percieve as person notation within volume to volume interactions.*
+
 ## 2. Degradation Factor
 *Status: Completed*  
 *File: 2-Degradation_Factor.md*  
@@ -127,6 +132,10 @@ I Kyle Telfer, a self-taught individual exploring physics through a structured, 
 *Closed vs. Open Volumes:
 *Closed Volume: A volume where energy is conserved (no external energy transfer).
 *Open Volume: A volume where energy is not conserved or no energy can enter or exit a closed volume unless expressed as an interaction of two closed volumes within the theoretically fundamental 3d Space volume(external energy transfer occurs).   
+*Person Notation:* 
+*First-Person POV: Describes the volume from the perspective of being the volume itself.*
+*Second-Person POV: Describes another volume from an external perspective.*
+*Third-Person POV**: Describes both volumes from an objective, external perspective.*
 
 # 3D Space #
 This is meant to try and understand my personal understanding of how I organize 3d space itself within my perception.  I am teaching myself as much as I can about so many things but run into many issues with the order of which things are traditionally tought as well as moving past data points being referenced in places my personal organization equates to unlike conditions.  This head section is a beginning but seems I need to start with volume and work with that and sub sections within that.  I may not need this header section when done but leaving a space for unknown.  The section organization is much influx due to this being a best effort to organize thoughts and document data point problems so I can look to understand what I do not.  I may reorder or move information to a better representation but I am doing my personal best to not include incorrect thoughts or thoughts that have undocumented thresholds without explaination.  This 3d Space section is what I am treating as a open volume to which volume interactions happen but with no limits mass or energy can not be calculated.

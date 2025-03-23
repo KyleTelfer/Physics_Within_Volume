@@ -115,12 +115,11 @@ Two objects, Object A (\( V_A \)) and Object B (\( V_B \)), collide elastically.
 ##### **Step 4: Interpret the Degraded Results**
 1. **First-Person Perspective (\( V_me \))**:
    - The observed velocities are reduced due to degradation, but the physical volumes can still grow or change.
-
-2. **Third-Person Perspective (\( V \))**:
-   - The absolute velocities are also reduced, reflecting the computational threshold imposed by degradation.
-
----
-
+2. **Second-Person Perspective (\( V_you \))**:
+   - The observed velocities of the other volume are also reduced, reflecting the computational threshold imposed by degradation.
+3. **Third-Person Perspective (\( V \))**:
+   - The absolute velocities are reduced, reflecting the system-level impact of degradation.
+   
 #### 2.7. Conclusion
 
 By reframing **degradation** as a **computational threshold**, the framework becomes more precise and aligned with its intended purpose. This approach acknowledges that:

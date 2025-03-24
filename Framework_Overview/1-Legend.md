@@ -185,6 +185,9 @@ Once a closed volume is defined those definitions can be used for calculations b
 # Open Volume or Partial Volume definitions such as a measuring volume #
 As all closed volume energy's are within this theoretical framework to be accounted for the use of entropic variables account for theoretical vs practical variance and other unknowns.  The need to partially define a volume to incorporate specific useful computation for any given need the use of these are both encouraged but need to respect many variables lead to entropic variables through variable definitions themselves.  So given a specific set of experimental needs one would define a measuring volume to enclose the closed volume you are calculating to better control the results and expediate the results for said calculation while respecting the entropic and degredation variables of both measuring volume and closed volume. 
 
+# Choas theory and randomness #
+This is an important distinction within volume interactions as being reductive or isolating in nature.  Within this framework the ability to close or define two volumes to do static calculations to understand interactions violates variables within the definitions of the volumes themselves.  Durational resolution deltas or time is the most prominant.  The computation duration needed to predict one square meter of interactions of atomic resolution would violate the durational resolution of each atmoic closed volume itself.  So the use of partially open volumes or measuring volumes to do bigger thinking with less computational burden is needed.   So chaos and randomness is needed to do bigger things even though the randomness might not be random on a micro scale the macro respresentation is random.  This equates to how the micro-particle volume for flow mechanics was needed but the application of chaos or randomness would be the mathmatical representation of the micro-particle solution being used within the flow mechanic system.
+
 # Elements #
 The foundation for all physical things.  In the most broad terms to me each element is possibly a stable mass energy threshold to which all foundations of physical material within a volume is wholely notable.
 
@@ -192,8 +195,6 @@ The foundation for all physical things.  In the most broad terms to me each elem
 Once a system is closed and defined that is intended for flow evaluation and that defined state includes a fully saturated volume you can add a pair of theoretical micro-particle volumes.  These volumes have to have the opposite energy potential from the closed volume not each other.  This way you can evaluate saturated flow within the closed volume without an energy conservation issue.  Note - the micro-particle input and outputs would not be limited to attachment of the closed volume.
 
 With the creation of micro-particle volumes the flow evaluation of the closed volume would not be limited to saturated systems.  The theoretical volume has energy input and output.  This input and output has needed defined properties to evaluate the closed volume.  The reason for energy input to be opposite the output relative to the closed volume is the closed volume would seek equilibrium once saturated.  If your evaluating a flow that is meant to redistribute energy the theoretical energy in and out do not supply the energy to run the evaluation.
-
-
 
 # Entropy #
 I have issue with Entropy myself.  So conceptually it equates to unobserved interactions or unobserved properties upon closing a volume. To me Entropy is used due to comparing volumes with unlike undocumented conditions.  So within a sterdy conceptual framework the only Entropic values should fall to the not observed and highlight limitations within experimental conversion from theoretical models.
